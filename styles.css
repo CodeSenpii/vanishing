@@ -30,7 +30,7 @@ section .text span{
 }
 
 section .text span.active{
-  animation: smoke 4s linear alternate;
+  animation: smoke 3s linear alternate;
   transform-origin: bottom;
 
 }
